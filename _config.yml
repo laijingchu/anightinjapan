@@ -26,8 +26,8 @@ defaults:
     layout: post
 email: laijing.chu@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: laijingchu
 github_username: laijingchu
 theme: minima
